@@ -1,0 +1,11 @@
+------------------Input_01------------------------
+
+Longest Compound Word: ratcatdogcat
+Second Longest Compound Word: catsdogcats
+Time taken to process file Input_01.txt: 41 milliseconds
+
+------------------Input_02------------------------
+
+Longest Compound Word: ethylenediaminetetraacetates
+Second Longest Compound Word: electroencephalographically
+Time taken to process file Input_02.txt: 1006 milliseconds
